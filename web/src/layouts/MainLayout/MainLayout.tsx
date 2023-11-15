@@ -2,6 +2,8 @@ import { useEffect } from 'react'
 
 import { themeChange } from 'theme-change'
 
+import Header from 'src/components/Header/Header'
+
 type MainLayoutProps = {
   children?: React.ReactNode
 }
@@ -12,8 +14,9 @@ const MainLayout = ({ children }: MainLayoutProps) => {
   })
   return (
     <>
-      <div id="mainLayout" data-theme={themeChange}>
-        {children}
+      <div id="mainLayout" className="space-y-8 p-3">
+        <Header />
+        <main>{children}</main>
       </div>
     </>
   )

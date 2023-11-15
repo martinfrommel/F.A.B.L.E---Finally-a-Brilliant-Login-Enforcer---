@@ -1,8 +1,10 @@
+import Navbar from '../Navbar/Navbar'
+
 const Header = () => {
   return (
-    <div>
-      <h2>{'Header'}</h2>
-      <p>{'Find me in ./web/src/components/Header/Header.tsx'}</p>
+    <div className="flex flex-row flex-nowrap items-center justify-between space-x-2">
+      <span className="flex-1 font-heading">Logo</span>
+      <Navbar />
     </div>
   )
 }

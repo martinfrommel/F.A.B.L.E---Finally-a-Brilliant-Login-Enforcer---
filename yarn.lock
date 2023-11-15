@@ -17257,18 +17257,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-daisyui@npm:^4.1.2":
-  version: 4.1.2
-  resolution: "react-daisyui@npm:4.1.2"
-  peerDependencies:
-    daisyui: ^3.0.22
-    react: ">=16"
-    react-dom: ">=16"
-    tailwindcss: ">=3.2.7"
-  checksum: 9c39121acf79ee45f2beb30bde0c8a34c112043785d69429d2b5a715a4bd134e8124204f6702405d601b5434ad224ba35b22866891b64912b524ef5cb68d733e
-  languageName: node
-  linkType: hard
-
 "react-dom@npm:18.2.0":
   version: 18.2.0
   resolution: "react-dom@npm:18.2.0"
@@ -20637,7 +20625,6 @@ __metadata:
     postcss-loader: ^7.3.3
     prop-types: 15.8.1
     react: 18.2.0
-    react-daisyui: ^4.1.2
     react-dom: 18.2.0
     tailwindcss: ^3.3.5
     theme-change: ^2.5.0
