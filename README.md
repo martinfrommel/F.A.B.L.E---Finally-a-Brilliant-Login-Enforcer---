@@ -26,20 +26,18 @@ Feel free to fork the project and weave your own magic into it! 🍴
 
 - **Phase 1: The Foundation**
   - [ ] Basic password generation using user-inputted words.
+  - [ ] Password strength meter (like a crystal ball showing its power).
   - [ ] Cryptographically secure enhancements.
-  - [ ] Customizable aesthetics using daisyUI and TailwindCSS.
 
 - **Phase 2: Enhancements and Potions**
-  - [ ] Password strength meter (like a crystal ball showing its power).
   - [ ] Mnemonic aids for password recall (weave a story around your password).
   - [ ] Accessibility enhancements (so all can partake in the magic).
 
-- **Phase 3: Expansion Scrolls**
-  - [ ] Mobile app development (React Native or Flutter).
-  - [ ] Cross-platform synchronization (for wandering souls).
-
-- **Phase 4: The Pinnacle of Magic**
+- **Phase 3: The Pinnacle of Magic**
   - [ ] Progressive Web App (PWA) capabilities. I personally adore using the web as a platform for creating app-like experiences - it's like casting a spell that turns a humble website into a mighty app!
+  - [ ] Cross-platform synchronization (for wandering souls).
+  - [ ] Customizable aesthetics using daisyUI and TailwindCSS.
+
 
 ## How to Contribute? 🤝
 
